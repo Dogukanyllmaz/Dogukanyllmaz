@@ -3,6 +3,8 @@
 ![Profile views](https://gpvc.arturio.dev/Dogukanyllmaz)  
 [![Github](https://img.shields.io/github/followers/Dogukanyllmaz?label=Followers&logo=Github)](https://github.com/Dogukanyllmaz)
 
+<a href="https://github.com/Dogukanyllmaz"><img src="https://camo.githubusercontent.com/e5408d00173d0628ddd8ff13f32dd7019dab1f71343837a6b855f3a6579eec8c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6b61616e656e65736b70633f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" alt="Github" data-canonical-src="https://img.shields.io/github/followers/kaaneneskpc?label=Follow&amp;style=social" style="max-width:100%;"></a>
+
 
 ## Front-end Development
 I am a student in Ege University. I am studying in the mathematics department and I want to improve myself in the software industry.
