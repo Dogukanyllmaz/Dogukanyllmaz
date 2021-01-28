@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Doğukan Yılmaz 
 ![Profile views](https://gpvc.arturio.dev/Dogukanyllmaz)  
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow @ntkme on GitHub">Follow @Dogukanyllmaz</a>
+
 #### Front-end Development
 I am a student in Ege University. I am studying in the mathematics department and I want to improve myself in the software industry.
 
