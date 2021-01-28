@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Doğukan Yılmaz 
+## Hi there 👋, I'm Doğukan Yılmaz 
 
 ![Profile views](https://gpvc.arturio.dev/Dogukanyllmaz)  
 [![Github](https://img.shields.io/github/followers/Dogukanyllmaz?label=Followers&logo=Github)](https://github.com/Dogukanyllmaz)
 
 
-#### Front-end Development
+## Front-end Development
 I am a student in Ege University. I am studying in the mathematics department and I want to improve myself in the software industry.
 
 Skills: C#/ JS / HTML / CSS
