@@ -27,7 +27,8 @@ Skills: C#/ JS / HTML / CSS
 <p align="center">
 <a href="https://linkedin.com/in/hüseyin-doğukan-yılmaz-75a1531ab/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:dogu_codeM@hotmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.instagram.com/dogu_yllmaz/?hl=tr" rel="nofollow"><img align="left" alt="Sabesan | Instagram" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;"></a>
+ <a href="https://www.instagram.com/dogu_yllmaz/?hl=tr"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ 
 </p>
 
 ## Stats: 
