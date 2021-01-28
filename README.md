@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Doğukan Yılmaz 
+<p aling ="center">
 ![Profile views](https://gpvc.arturio.dev/Dogukanyllmaz)  
 [![Github](https://img.shields.io/github/followers/Dogukanyllmaz?label=Followers&logo=Github)](https://github.com/Dogukanyllmaz)
-
+</p>
 
 #### Front-end Development
 I am a student in Ege University. I am studying in the mathematics department and I want to improve myself in the software industry.
@@ -23,7 +24,9 @@ Skills: C#/ JS / HTML / CSS
 </p>
 
 ## :email: Find me on:
+<p align= "center">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dogukanyllmaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hüseyin-doğukan-yılmaz-75a1531ab/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dogu_yllmaz/?hl=tr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Zeolas/pens/public)  
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Dogukanyllmaz&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
