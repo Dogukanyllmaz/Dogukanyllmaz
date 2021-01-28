@@ -17,6 +17,6 @@ Skills: C#/ JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Dogukanyllmaz&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dogukanyllmaz&hide=javascript,html&theme=dark&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dogukanyllmaz&langs_count=8&hide=javascript,html&theme=dark&show_icons=true)  
 
  
