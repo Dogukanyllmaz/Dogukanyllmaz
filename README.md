@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Doğukan Yılmaz 
-<p aling ="center">
+<p align= "center">
 ![Profile views](https://gpvc.arturio.dev/Dogukanyllmaz)  
 [![Github](https://img.shields.io/github/followers/Dogukanyllmaz?label=Followers&logo=Github)](https://github.com/Dogukanyllmaz)
 </p>
