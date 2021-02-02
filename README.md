@@ -13,7 +13,7 @@ Skills: C#/ JS / HTML / CSS
 - 🤔 I’m looking for help with JavaScript documentation 
 - 📫 How to reach me: Email: dogu_codeM@hotmail.com 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact:  basketball and Tv series 
+- ⚡ Fun fact: Basketball and Tv series 
 
 ## 🧰 Languages and Tools:
 <p align= "center">
