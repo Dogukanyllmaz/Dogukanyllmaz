@@ -8,9 +8,9 @@ I am a student in Ege University. I am studying in the mathematics department an
 
 Skills: C#/ JS / HTML / CSS
 
-- 🔭 I’m currently working on front-end development 
+- 🔭 I’m currently working on back-end 
 - 🌱 I’m currently learning JavaScript and C# 
-- 🤔 I’m looking for help with JavaScript documentation 
+- 🤔 I’m looking for help with JavaScript and C# documentation 
 - 📫 How to reach me: Email: dogu_codeM@hotmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Basketball and Tv series 
