@@ -3,12 +3,12 @@
 ![Profile views](https://gpvc.arturio.dev/Dogukanyllmaz)  
 [![Github](https://img.shields.io/github/followers/Dogukanyllmaz?label=Followers&logo=Github)](https://github.com/Dogukanyllmaz)
 
-## Front-end Development
+## Languages
 I am a student in Ege University. I am studying in the mathematics department and I want to improve myself in the software industry.
 
 Skills: C#/ JS / HTML / CSS
 
-- 🔭 I’m currently working on back-end 
+- 🔭 I’m currently working on Back-end 
 - 🌱 I’m currently learning JavaScript and C# 
 - 🤔 I’m looking for help with JavaScript and C# documentation 
 - 📫 How to reach me: Email: dogu_codeM@hotmail.com 
