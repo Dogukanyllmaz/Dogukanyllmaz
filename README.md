@@ -9,8 +9,8 @@ I am a student in Ege University. I am studying in the mathematics department an
 Skills: C#/ JS / HTML / CSS
 
 - 🔭 I’m currently working on Back-end 
-- 🌱 I’m currently learning JavaScript and C# 
-- 🤔 I’m looking for help with JavaScript and C# documentation 
+- 🌱 I’m currently learning AngularJs and C# 
+- 🤔 I’m looking for help with AngularJs and C# documentation 
 - 📫 How to reach me: Email: dogu_codeM@hotmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Basketball and Tv series 
@@ -26,8 +26,6 @@ Skills: C#/ JS / HTML / CSS
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
  
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
- 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
 
