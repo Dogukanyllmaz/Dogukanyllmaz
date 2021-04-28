@@ -43,7 +43,7 @@ Skills: C#/ HTML / CSS
 <div/>
 
 ## :email: Find me on:
-<p align="center" padding="0px 20px">
+<p align="center" style = "padding: 0px 20px; ">
 <a href="https://linkedin.com/in/hüseyin-doğukan-yılmaz-75a1531ab/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:dogu_codeM@hotmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.instagram.com/dogu_yllmaz/?hl=tr"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
