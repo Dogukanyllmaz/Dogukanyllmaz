@@ -6,13 +6,12 @@
 ## About Me
 I am a student in Ege University. I am studying in the mathematics department and I want to improve myself in the software industry.
 
-Skills: C#/ JS / HTML / CSS
+Skills: C#/ HTML / CSS
 
-- 🔭 I’m currently working on Back-end 
-- 🌱 I’m currently learning AngularJs and C# 
-- 🤔 I’m looking for help with AngularJs and C# documentation 
+- 🔭 I’m currently working on Backend 
+- 🌱 I’m currently learning Java and C# 
+- 🤔 I’m looking for help with Java, C#, SQL documentation 
 - 📫 How to reach me: Email: dogu_codeM@hotmail.com 
-- 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Basketball and Tv series 
 
 ## 🧰 Languages and Tools:
@@ -35,7 +34,7 @@ Skills: C#/ JS / HTML / CSS
 </p>
 
 ## Stats: 
-<div>
+<div style="float=left">
  
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Dogukanyllmaz&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
