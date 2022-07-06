@@ -22,12 +22,12 @@ Skills: C# / .Net / Java
 </p>
 
 ## Stats: 
-<div style="float=left">
+
  
 [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dogukanyllmaz&langs_count=8&theme=dark&show_icons=true)    ![Top Langs](https://github-readme-stats.vercel.app/api?username=Dogukanyllmaz&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)]
 
 
-<div/>
+
 
 ## :email: Find me on:
 <p align="center" style = "padding:20px; ">
