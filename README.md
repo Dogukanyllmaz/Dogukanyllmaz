@@ -6,13 +6,11 @@
 ## About Me
 I am a student in Ege University. I am studying in the mathematics department and I want to improve myself in the software industry.
 
-Skills: C# / .Net 
+Skills: C# / .Net / Java
 
-- 🔭 I’m currently working on Backend 
 - 🌱 I’m currently learning Java and C# 
 - 🤔 I’m looking for help with Java, C# documentation 
 - 📫 How to reach me: Email: dogu_codeM@hotmail.com 
-- ⚡ Fun fact: Basketball and Tv series 
 
 ## 🧰 Languages and Tools:
 <p align= "center">
