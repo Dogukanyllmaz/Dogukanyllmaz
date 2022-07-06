@@ -23,11 +23,11 @@ Skills: C# / .Net / Java
 
 ## Stats: 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dogukanyllmaz&langs_count=8&theme=dark&show_icons=true)    ![Top Langs](https://github-readme-stats.vercel.app/api?username=Dogukanyllmaz&theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dogukanyllmaz&langs_count=8)    ![Top Langs](https://github-readme-stats.vercel.app/api?username=Dogukanyllmaz)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukanyllmaz&show_icons=true&locale=en&layout=compact" alt="dogukanyllmaz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukanyllmaz&theme=dark&show_icons=true&locale=en&layout=compact" alt="dogukanyllmaz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukanyllmaz&show_icons=true&locale=en" alt="dogukanyllmaz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukanyllmaz&theme=dark&show_icons=true" alt="dogukanyllmaz" /></p>
 
 
 
