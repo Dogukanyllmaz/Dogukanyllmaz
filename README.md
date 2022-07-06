@@ -3,9 +3,6 @@
 ![Profile views](https://gpvc.arturio.dev/Dogukanyllmaz)  
 [![Github](https://img.shields.io/github/followers/Dogukanyllmaz?label=Followers&logo=Github)](https://github.com/Dogukanyllmaz)
 
-## About Me
-I am a student in Ege University. I am studying in the mathematics department and I want to improve myself in the software industry.
-
 Skills: C# / .Net / Java
 
 - 🌱 I’m currently learning Java and C# 
