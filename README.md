@@ -32,9 +32,9 @@ integrations and analytics that fix it.
 
 | Area | What I delivered |
 |---|---|
-| **Procure-to-Pay redesign** | Unified redesign of request → stock issue → transfer → purchasing → goods receipt → invoice as one module, with SLAs, escalation rules, decision tables, RACI and a status model. Model-driven: one JSON source generates the BPMN maps and the design documentation. |
-| **Enterprise process mapping** | Extracted and documented the As-Is state of **70+ production workflows across 30+ process groups** directly from platform packages, producing a navigable process atlas and a control-gap baseline. |
-| **BPM ↔ ERP integration** | Scheduled service that transfers pending purchase invoices from the workflow platform into the ERP, updates document status, retries failures and escalates persistent errors by email. |
+| **Procure-to-Pay redesign** · [case study](https://github.com/Dogukanyllmaz/procure-to-pay-redesign-case-study) | Unified redesign of request → stock issue → transfer → purchasing → goods receipt → invoice as one module, with SLAs, escalation rules, decision tables, RACI and a status model. Model-driven: one JSON source generates the BPMN maps and the design documentation. |
+| **Enterprise process mapping** · [toolkit](https://github.com/Dogukanyllmaz/process-mapping-toolkit) | Extracted and documented the As-Is state of **70+ production workflows across 30+ process groups** directly from platform packages, producing a navigable process atlas and a control-gap baseline. |
+| **BPM ↔ ERP integration** · [pattern](https://github.com/Dogukanyllmaz/bpm-erp-integration-pattern) | Scheduled service that transfers pending purchase invoices from the workflow platform into the ERP, updates document status, retries failures and escalates persistent errors by email. |
 | **Process performance analytics** | Read-only analytics layer over workflow history: step-level cycle times, working-day calendar, open-item survival analysis and end-to-end request-chain tracing. |
 | **Vela: project & OKR management** | Full-stack web application for tasks, OKRs and process-improvement follow-up, linking audit findings to actionable tasks. |
 | **.NET backend portfolio** | E-commerce microservices (product, order, auth) behind an Ocelot API gateway with resilient inter-service calls; reusable core layer with cross-cutting concerns; JWT authentication reference implementations. |
@@ -45,6 +45,9 @@ integrations and analytics that fix it.
 
 | Repository | About |
 |---|---|
+| [procure-to-pay-redesign-case-study](https://github.com/Dogukanyllmaz/procure-to-pay-redesign-case-study) | Model-driven redesign of a multi-site procure-to-pay cycle: decision tables, built-in controls |
+| [process-mapping-toolkit](https://github.com/Dogukanyllmaz/process-mapping-toolkit) | Swimlane maps and automated internal-control checks for BPM workflows (Python) |
+| [bpm-erp-integration-pattern](https://github.com/Dogukanyllmaz/bpm-erp-integration-pattern) | Idempotent BPM → ERP document sync with retry and alerting (.NET, tested) |
 | [ecommerce-microservices](https://github.com/Dogukanyllmaz/ecommerce-microservices) | .NET 8 microservices behind an Ocelot API gateway: clean architecture, JWT, Polly retries |
 | [dotnet-core-layer](https://github.com/Dogukanyllmaz/dotnet-core-layer) | Reusable core layer with AOP cross-cutting concerns (Autofac interceptors) |
 | [pharmacy-management-api](https://github.com/Dogukanyllmaz/pharmacy-management-api) | Layered API with Redis caching, Serilog/Seq and FluentValidation |
@@ -81,4 +84,4 @@ integrations and analytics that fix it.
 3. **Redesign with control built in:** clear ownership, escalation and auditability by design.
 4. **Automate and measure:** ship the workflow and the metrics that prove it works.
 
-<sub>Most of my process, workflow and integration work is proprietary and kept in private repositories. Public repositories focus on backend reference projects.</sub>
+<sub>Most of my process, workflow and integration work is proprietary and kept in private repositories. Public repositories contain generalized case studies, process tooling and backend reference projects.</sub>
